@@ -1,6 +1,6 @@
-Hoàng Quang Sơn - 22810310275 - Bài tập Context API
-
-
+#buoi 8
+##Họ và tên: Hà Trọng Nhân
+##Msv: 22810310279
 
 
 
